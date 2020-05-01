@@ -10,3 +10,5 @@
 <h3 align="center">
   ⚛️ 📄 🚀
 </h3>
+
+<a href="https://react-maus-carousel.netlify.app/">Demo Preview<a>
